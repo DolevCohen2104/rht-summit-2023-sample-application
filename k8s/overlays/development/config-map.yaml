@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://media.makeameme.org/created/waiting-for-openshift-691b98dd5f.jpg"
     ]
 kind: ConfigMap
 metadata:
